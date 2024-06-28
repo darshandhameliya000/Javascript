@@ -117,7 +117,7 @@
 /* main-match-matchAll string string.match() /string.matchAll() method */
 
 //Defination match():- The match() method of String values retrieves the result of matching this string against a regular expression.
-
+    
 //Defination matchAll():- The matchAll() method of String values returns an iterator of all results matching this string against a regular expression, including capturing groups.
 
 //Syntax match() :- match(regexp)
