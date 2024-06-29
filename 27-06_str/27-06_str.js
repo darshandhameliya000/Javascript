@@ -30,9 +30,9 @@
     // Syntax :- toExponential()
     //        :- toExponential(fractionDigits)
 
-    {
-        let number=250000
+    // {
+    //     let number=250000
 
-        let expo1=number.toExponential(1)
-        console.log(expo1);
-    }
+    //     let expo1=number.toExponential(1)
+    //     console.log(expo1);
+    // }
