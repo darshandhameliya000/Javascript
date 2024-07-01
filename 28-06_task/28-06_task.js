@@ -3,12 +3,12 @@
 // {
 //   let first = prompt("you are add the first number" )
 //   let second = prompt("you are add the second number")
-  
+
 //   let a=parseInt(first)
 //   let b=parseInt(second)
 //   console.log(a)
 //   console.log(b)
- 
+
 // }
 
 /*2. Calculate the area of a rectangle */
@@ -65,6 +65,16 @@
 
 /*6. Combination of Arithmetic Operators */
 
+// {
+//     let a=10
+//     let b=20
+//     let c=30
+//     let d=40
+//     let e=50
+    
+//     console.log(a+b-c*d/e);
+// }
+
 /*7. Comparing Numbers [5 number] */
 
 // {
@@ -87,7 +97,6 @@
 //     let aa4= (a4 > z)
 //     let aa5= (a5 <= z)
 
-        
 //     console.log("⬇ this all number are equal by 10 ⬇");
 //     console.log(aa1);
 //     console.log(aa2);
@@ -98,18 +107,64 @@
 
 /*8. Comparing Strings [5 String] */
 
+// {
+//   let a = prompt("enter the first string");
+//   let b = prompt("enter the second string ");
+//   let c = prompt("enter the third string ");
+//   let d = prompt("enter the fourth string ");
+//   let e = prompt("enter the fifth string ");
+
+//   let aa1 = (a == c);
+//   let aa2 = (b === e);
+//   let aa3 = (c == b);
+//   let aa4 = (d == a);
+//   let aa5 = (e == d);
+
+//   console.log(aa1);
+//   console.log(aa2);
+//   console.log(aa3);
+//   console.log(aa4);
+//   console.log(aa5);
+// }
+
 /*9. Comparing Different Types [4 types] */
+
+// {
+//   let a = prompt("enter the first type");
+//   let b = prompt("enter the second type ");
+//   let c = prompt("enter the third type ");
+//   let d = prompt("enter the fourth type ");
+//   let e = prompt("enter the fifth type ");
+
+//   let aa1 = a == c;
+//   let aa2 = b === e;
+//   let aa3 = c == b;
+//   let aa4 = d == a;
+//   let aa5 = e == d;
+
+//   console.log(aa1);
+//   console.log(aa2);
+//   console.log(aa3);
+//   console.log(aa4);
+//   console.log(aa5);
+// }
 
 /*10. Using Multiple Operators [4 types] */
 
+// {
+//     let a=10
+//     let b=20
+    
+//     console.log(a+b);
+//     console.log(a==b);
+//     console.log(a+=b);
+//     console.log(a/b);
+//     console.log(a||b);
+//     console.log(a<b);
+//     console.log(a>=b);
+//     console.log(a**b);
+// }
+
+
 /*11. Complex Assignments[2 types] */
-
-
-
-
-
-
-
-
-
 
